@@ -3,7 +3,7 @@ export const site = {
   instagram: "https://www.instagram.com/design.carolarrais/",
   description: "Identidades visuais estratégicas para profissionais e empresas que querem transmitir autoridade, credibilidade e posicionamento.",
   // Preencha NEXT_PUBLIC_SITE_URL com o domínio definitivo, incluindo https://.
-  url: process.env.NEXT_PUBLIC_SITE_URL || "https://carol-arrais-design.drivenetosaturno.chatgpt.site",
+  url: process.env.NEXT_PUBLIC_SITE_URL || "https://carolarrais.vercel.app",
   heroImage: "/images/carol-hero.webp",
   aboutImage: "/images/carol-sobre.webp",
   logoImage: "", // Ex.: /images/logo-carol.svg. Vazio utiliza a assinatura tipográfica provisória.

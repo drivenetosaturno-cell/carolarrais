@@ -50,7 +50,7 @@ Antes do lançamento comercial:
 1. Substituir os três depoimentos ilustrativos por relatos autorizados ou screenshots reais. Os exemplos estão identificados na página e nunca são apresentados como prova social verificada.
 2. Fornecer o logotipo original em SVG/PNG transparente. A assinatura tipográfica e o favicon atuais são provisórios; a imagem de destaque do Instagram não tem resolução adequada para funcionar como logo.
 3. Validar as respostas do FAQ e o escopo dos serviços com Carol.
-4. Definir `NEXT_PUBLIC_SITE_URL` no ambiente da hospedagem antes do build, para atualizar canonical, sitemap, robots e schema. O endereço configurado inicialmente é o endereço esperado do cadastro privado no Sites, não uma confirmação de publicação.
+4. Definir `NEXT_PUBLIC_SITE_URL` no ambiente da hospedagem antes do build, para atualizar canonical, sitemap, robots e schema. O endereço padrão é `https://carolarrais.vercel.app`. Veja `PUBLICAR-NA-VERCEL.md` para publicar a versão com a página de entrada.
 
 SEO inclui title, description, Open Graph, Twitter summary card, canonical, sitemap, robots e schema ProfessionalService. Nenhum endereço físico, preço, avaliação ou horário foi inventado. Não foi criada uma imagem social específica.
 
