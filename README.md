@@ -2,6 +2,13 @@
 
 Site institucional mobile first em Next.js (App Router), React, TypeScript e Tailwind CSS. Exportação estática, sem backend ou cadastro de leads: todos os contatos comerciais seguem para o WhatsApp **558821554554** com mensagem codificada.
 
+## Páginas do mesmo projeto
+
+- `/`: entrada curta com foto de Carol e duas opções, nesta ordem: acessar o portfólio e conversar pelo WhatsApp.
+- `/portfolio`: site institucional completo, preservado em conteúdo, componentes e estilos.
+
+A entrada usa `src/app/page.tsx` e estilos isolados em `src/app/welcome.module.css`. O site original está em `src/app/portfolio/page.tsx`. A foto da entrada está em `public/images/carol-perfil.jpg`. Canonical e sitemap contemplam as duas rotas. A hospedagem estática deve resolver `/portfolio` para o arquivo exportado `portfolio.html` (URLs sem extensão).
+
 ## Executar
 
 Requisitos: Node.js 20.9+ e pnpm. As versões instaladas estão fixadas no `pnpm-lock.yaml`.

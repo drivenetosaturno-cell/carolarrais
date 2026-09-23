@@ -4,6 +4,7 @@ Uso solicitado explicitamente pelo usuário. Fonte: perfil público [@design.car
 
 | Arquivo | Publicação | Dimensão |
 | --- | --- | --- |
+| carol-perfil.jpg | Foto do perfil https://www.instagram.com/design.carolarrais/ | 150 × 150 |
 | carol-hero.webp | https://www.instagram.com/design.carolarrais/p/DDFVc09PtZW/ | 640 × 640 |
 | carol-sobre.webp | https://www.instagram.com/design.carolarrais/p/Dc_Yo1wjh9l/ | 512 × 640 |
 | fernanda-zanata.webp | https://www.instagram.com/design.carolarrais/p/Dc4YbfZljP_/ | 640 × 640 |

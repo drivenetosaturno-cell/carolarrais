@@ -1,5 +1,15 @@
 # Validação — 23/09/2026
 
+## Página de entrada adicionada
+
+- Lint, build e TypeScript aprovados para `/` e `/portfolio`.
+- Entrada conferida em 375 × 667 px: foto carregada, dois links e conteúdo completo sem rolagem horizontal ou vertical.
+- Primeiro botão testado no navegador: abre `/portfolio`, com o H1 original e as 11 seções do site.
+- Segundo botão: URL do WhatsApp 558821554554 e mensagem codificada, sem envio automático.
+- Os hashes de `globals.css` e de todos os componentes existentes foram preservados. O conteúdo renderizado do site foi apenas transferido para a nova rota; metadados de rota e sitemap foram ajustados.
+
+## Site institucional
+
 - `pnpm typecheck`: aprovado, sem erros de TypeScript/imports.
 - `pnpm lint`: aprovado, sem avisos ou erros.
 - `pnpm build`: aprovado; página inicial, 404, robots.txt e sitemap.xml exportados em `out/`.
